@@ -6,7 +6,7 @@ turn_counter = 1
 rep = [0]
 
 """
-
+ETSTETDVuSGGDZQIg
 
 Test fuer ein commit
 blabla
