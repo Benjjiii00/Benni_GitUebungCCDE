@@ -126,3 +126,6 @@ while True:
 
 
 
+
+def greet(name):
+    return f'Hallo, {name}\!'
