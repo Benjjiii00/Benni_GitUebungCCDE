@@ -126,3 +126,6 @@ while True:
 
 
 
+
+def farewell(name):
+    return f'Auf Wiedersehen, {name}\!'
